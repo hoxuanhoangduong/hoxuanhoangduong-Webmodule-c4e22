@@ -1,0 +1,29 @@
+html{
+    height: 100%;
+}
+
+body{
+    height: 100%;
+}
+
+
+
+h2{
+    color: crimson;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+p{
+    color: black;
+    font-family: 'Gochi Hand', cursive;
+}
+
+#root {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://images.pexels.com/photos/1084425/pexels-photo-1084425.jpeg?auto=compress&cs=tinysrgb&h=650&w=940);
+    height: 100%;
+
+}
