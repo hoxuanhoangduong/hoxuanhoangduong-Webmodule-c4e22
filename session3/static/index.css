@@ -1,0 +1,31 @@
+html, body {
+    height: 100%;
+}
+* {
+    font-size: 1.1rem;
+}
+
+form {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+input {
+    border-radius: 4px;
+    width: 160% ;
+    font-family: 'Indie Flower', cursive;
+}
+button {
+    border-radius: 5px;
+    padding: 4px 10px;
+    font-family: 'Poor Story', cursive;
+    background-color: darkslateblue;
+    color: aliceblue;
+}
+
+h3 {
+    font-family: 'Poor Story', cursive;
+}
