@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+}
+
+#root {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    border-width: 1px;
+}
+
+#question {
+    width: 300px;
+    height: 25px;
+    border: 2px solid blue;
+    border-radius: 5px;
+    border-style: outset inset;
+    margin: 3px
+}
